@@ -1,0 +1,7 @@
+# Dataset files
+*.npz
+*.npy
+
+# Data directories
+data/
+datasets/
